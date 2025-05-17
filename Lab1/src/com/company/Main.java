@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 import static java.lang.Math.*;
-123
+1234
 public class Main {
 
     public static void main(String[] args) {
